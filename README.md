@@ -33,8 +33,8 @@
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://linkedin.com/in/seunome)
-- [Currículo Lattes](http://lattes.cnpq.br/XXXXXXXXXXXX)
-- E-mail: **seunome@dominio.com**
+- [Discord] ([https://Discord.com/me/kayke_cruz_afk]
+- E-mail: **Kayke.c@aluno.senai.br**
 
 ---
 
