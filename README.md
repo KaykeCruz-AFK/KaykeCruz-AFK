@@ -33,7 +33,7 @@
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://linkedin.com/in/seunome)
-- [Discord] ([https://Discord.com/me/kayke_cruz_afk]
+- [Discord] https://discord.com/channels/@me/1305507360344768513
 - E-mail: **Kayke.c@aluno.senai.br**
 
 ---
