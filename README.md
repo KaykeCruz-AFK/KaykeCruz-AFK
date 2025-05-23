@@ -28,14 +28,6 @@
 
 ---
 
-## 📂 Repositórios em Destaque
-
-🔸 [nome-do-repositorio](https://github.com/seunome/nome-do-repositorio)  
-*Breve descrição do projeto ou trabalho acadêmico.*
-
-🔸 [outro-projeto](https://github.com/seunome/outro-projeto)  
-*Outro destaque relevante — pode ser um TCC, IC, ou projeto técnico.*
-
 ---
 
 ## 📫 Como me encontrar
