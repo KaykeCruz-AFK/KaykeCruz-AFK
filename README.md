@@ -1,16 +1,50 @@
-## Hi there 👋
+## 👋 Olá! Eu sou Kayke.
 
-<!--
-**KaykeCruz-AFK/KaykeCruz-AFK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de TI na rede Firjan Senai.  
+💻 Apaixonado por desenvolvimento de sistemas, tecnologia e aprendizado contínuo  
+🔬 Interesse em Inteligência Artificial, Desenvolvimento Web e Ciência de Dados  
+📍 Baseado em Petrópolis, Rio de Janeiro — Brasil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Áreas de Interesse
+
+- Desenvolvimento Full Stack (JavaScript, Node.js, Python)
+- Python para análise de dados e automações
+- Sistemas embarcados e IoT
+- Estruturas de dados e algoritmos
+- Projetos acadêmicos com foco em pesquisa aplicada
+
+---
+
+## 🔧 Tecnologias que venho utilizando
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📂 Repositórios em Destaque
+
+🔸 [nome-do-repositorio](https://github.com/seunome/nome-do-repositorio)  
+*Breve descrição do projeto ou trabalho acadêmico.*
+
+🔸 [outro-projeto](https://github.com/seunome/outro-projeto)  
+*Outro destaque relevante — pode ser um TCC, IC, ou projeto técnico.*
+
+---
+
+## 📫 Como me encontrar
+
+- [LinkedIn](https://linkedin.com/in/seunome)
+- [Currículo Lattes](http://lattes.cnpq.br/XXXXXXXXXXXX)
+- E-mail: **seunome@dominio.com**
+
+---
+
+> "A tecnologia é melhor quando une as pessoas." – Matt Mullenweg
+
