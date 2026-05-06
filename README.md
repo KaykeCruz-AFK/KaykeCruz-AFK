@@ -32,7 +32,7 @@
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/kayke-cruz-18a817408/)
-- Número de Telefone: (24)99308-6732
+- Número de Telefone: (24) 99308-6732
 - E-mail: **Kayke.c@aluno.senai.br**
 
 ---
