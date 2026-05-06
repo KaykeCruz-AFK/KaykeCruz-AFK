@@ -31,8 +31,8 @@
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://linkedin.com/in/seunome)
-- [Discord] https://discord.com/channels/@me/1305507360344768513
+- [LinkedIn](https://www.linkedin.com/in/kayke-cruz-18a817408/)
+- Número de Telefone: (24)99308-6732
 - E-mail: **Kayke.c@aluno.senai.br**
 
 ---
